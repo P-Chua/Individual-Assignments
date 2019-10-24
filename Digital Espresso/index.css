@@ -1,0 +1,38 @@
+body
+{
+  font-family: Arial;
+  background-color: moccasin;
+}
+h1 
+{
+  color: black;
+  text-align: Center;
+  font-family: Arial;
+}
+table 
+{
+  font-family: raleway;
+  font-size: 25;
+  background-color: sandybrown;
+}
+td
+{
+    padding-right: 25;
+    padding-left:25;
+}
+p1
+{
+    font-family: Raleway;
+    background-color: sandybrown;
+}
+p
+{
+    font-family: arial;
+    background-color: sandybrown;
+}
+footer
+{
+    padding: 40;
+    font-family: raleway; 
+    background-color: sandybrown;
+}
